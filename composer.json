@@ -1,0 +1,16 @@
+{
+    "name": "moein/mvclibrary",
+    "description": "Library php mvc project",
+    "authors": [
+        {
+            "name": "Moein",
+            "email": "afsharimoein79@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    }
+}
